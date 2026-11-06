@@ -19,5 +19,14 @@ for i in range(round(steps_sim)):
 
 
 
+
+#6767676
+
+
+
+
+
+
+
 plt.plot(time, Yval)
 plt.show()
